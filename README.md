@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I'm Claire Hammond 👋
+
+I'm developing technology to facilitate better clinical outcomes through biomechanical simulation and modeling!
 
 <!--
 **cvhammond/cvhammond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
