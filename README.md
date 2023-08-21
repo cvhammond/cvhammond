@@ -2,17 +2,16 @@
 
 I'm developing technology to facilitate better clinical outcomes through biomechanical simulation and modeling!
 
-<!--
-**cvhammond/cvhammond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on the [**Neuromusculoskeletal Modeling Pipeline**](https://nmsm.rice.edu) 🧠
+- 🌱 I’m currently learning **Rust** 🦀
+- 👯 I’m looking to collaborate on [**biomech.dev**](https://biomech.dev) :wrench:
+- 🤔 I’m looking for help with **gathering biomechanics data.**
+- 💬 Ask me about **cycling!** :bicyclist:
+- 📫 How to reach me: [**Twitter**](https://twitter.com/cvhammond_)
+- 😄 Pronouns: **she/her**
+- ⚡ Fun fact: **My cat is named Anya!** :heart_eyes_cat:
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvhammond&layout=compact&theme=dark&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvhammond&show_icons=true&hide_border=true&theme=dark)
+
