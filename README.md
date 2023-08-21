@@ -11,7 +11,8 @@ I'm developing technology to facilitate better clinical outcomes through biomech
 - 😄 Pronouns: **she/her**
 - ⚡ Fun fact: **My cat is named Anya!** :heart_eyes_cat:
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvhammond&layout=compact&theme=dark&hide_border=true)
 
 ![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvhammond&show_icons=true&hide_border=true&theme=dark)
-
+-->
