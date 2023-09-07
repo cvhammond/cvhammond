@@ -9,7 +9,7 @@ I'm developing technology to facilitate better clinical outcomes through biomech
 - 💬 Ask me about **cycling!** :bicyclist:
 - 📫 How to reach me: [**Twitter**](https://twitter.com/cvhammond_)
 - 😄 Pronouns: **she/her**
-- ⚡ Fun fact: **My cat is named Anya!** :heart_eyes_cat:
+- ⚡ Fun fact: **My 🐈 is named Anya!** :heart_eyes_cat:
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvhammond&layout=compact&theme=dark&hide_border=true)
