@@ -4,7 +4,7 @@ I'm developing technology to facilitate better clinical outcomes through biomech
 
 - 🔭 I’m currently working on the [**Neuromusculoskeletal Modeling Pipeline**](https://nmsm.rice.edu) 🧠
 - 🌱 I’m currently learning **Rust** 🦀
-- 👯 I’m looking to collaborate on [**biomech.dev**](https://biomech.dev) :wrench:
+- 👯 I’m looking to collaborate on [**Chiron**](https://chiron.rs) :wrench:
 - 🤔 I’m looking for help with **gathering biomechanics data.**
 - 💬 Ask me about **cycling!** :bicyclist:
 - 📫 How to reach me: [**Twitter**](https://twitter.com/cvhammond_)
